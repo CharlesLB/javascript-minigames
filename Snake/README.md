@@ -43,6 +43,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   # Basta abrir a página .html
 ```
 
+- [Ou clique aqui](https://quizzical-kirch-b846fd.netlify.app/snake)
+
 <a id="como-contribuir"></a>
 
 ## :recycle: Como contribuir

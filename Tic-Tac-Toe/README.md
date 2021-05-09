@@ -2,13 +2,12 @@
   :floppy_disk: Tic-Tac-Toe :floppy_disk:
 </h1>
 
-
 <p align="center">
   <img alt="Language" src="https://img.shields.io/badge/language-NodeJS-brightgreen">
 </p>
 
-
 ## :bookmark: Sobre
+
 Um simples jogo da velha com a tecnologia JavaScript.
 
 <a id="documentacao"></a>
@@ -40,6 +39,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```sh
   # Basta abrir a página .html
 ```
+
+- [Ou clique aqui](https://quizzical-kirch-b846fd.netlify.app/tic-tac-toe)
 
 <a id="como-contribuir"></a>
 
